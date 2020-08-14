@@ -1,7 +1,6 @@
 <?php
 
-// Replace this with your own email address
-$to = 'andrewking13376@gmail.com';
+$to = 'apkoung@myseneca.ca';
 
 function url(){
   return sprintf(
