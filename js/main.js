@@ -201,7 +201,7 @@ var owlCarouselPlugin = function() {
     loop: true,
     stagePadding: 20,
   	margin: 10,
-    smartSpeed: 2000,
+    smartSpeed: 5000,
     autoplay: true,
     autoplayHoverPause: true,
     dots: true,
