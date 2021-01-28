@@ -396,7 +396,7 @@ a {
     .unslate_co--site-nav.scrolled.sleep {
       -webkit-transition: .3s all ease-out;
       -o-transition: .3s all ease-out;
-      transition: .3s all ease-out; }
+      transition: .3s all ease-out;     }
 
 /* Mobile nav */
 .unslate_co--site-mobile-menu {
